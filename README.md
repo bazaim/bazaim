@@ -1,0 +1,3 @@
+- 🥞 Hi, I’m @bazaim
+- 🦀 I’m currently learning *Rust*
+- 👀 I’m interested in Web development
