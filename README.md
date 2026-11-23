@@ -1,3 +1,1 @@
-- 🥞 Hi, I’m @bazaim
-- 🦀 I’m currently learning *Rust*, to be able to use *WebAssembly* and boost my WebApplications.
-- 👀 I’m interested in WebDevelopment
+
